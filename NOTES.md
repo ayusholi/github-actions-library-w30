@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-07-26T13:00:01.856Z
+Last updated: 2026-07-31T13:00:01.192Z
 
-## Summary
+## Progress
 
-- handle empty response gracefully
+- update README with usage examples
