@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-07-31T13:00:01.192Z
+Last updated: 2026-08-03T13:00:01.260Z
 
-## Summary
+## Progress
 
-- update CI workflow triggers
+- add pre-commit hooks for quality checks
