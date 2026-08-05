@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add setup and installation guide
-- Build: 2026-08-03T13:00:01.260Z
+- improve test coverage for edge cases
+- Updated: 2026-08-05T13:00:01.427Z
